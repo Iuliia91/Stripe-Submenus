@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Stripe-Submenus/static/css/main.c0b00f0e.chunk.css",
+    "main.js": "/Stripe-Submenus/static/js/main.bc9c3d5d.chunk.js",
+    "main.js.map": "/Stripe-Submenus/static/js/main.bc9c3d5d.chunk.js.map",
+    "runtime-main.js": "/Stripe-Submenus/static/js/runtime-main.531f0737.js",
+    "runtime-main.js.map": "/Stripe-Submenus/static/js/runtime-main.531f0737.js.map",
+    "static/js/2.e1e77988.chunk.js": "/Stripe-Submenus/static/js/2.e1e77988.chunk.js",
+    "static/js/2.e1e77988.chunk.js.map": "/Stripe-Submenus/static/js/2.e1e77988.chunk.js.map",
+    "index.html": "/Stripe-Submenus/index.html",
+    "precache-manifest.a82e2755a5671d0097cc0c362e1ccb64.js": "/Stripe-Submenus/precache-manifest.a82e2755a5671d0097cc0c362e1ccb64.js",
+    "service-worker.js": "/Stripe-Submenus/service-worker.js",
+    "static/css/main.c0b00f0e.chunk.css.map": "/Stripe-Submenus/static/css/main.c0b00f0e.chunk.css.map",
+    "static/js/2.e1e77988.chunk.js.LICENSE.txt": "/Stripe-Submenus/static/js/2.e1e77988.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Stripe-Submenus/static/media/hero.8596ab4a.svg",
+    "static/media/logo.svg": "/Stripe-Submenus/static/media/logo.1090473d.svg",
+    "static/media/phone.svg": "/Stripe-Submenus/static/media/phone.58d7e3d6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.531f0737.js",
+    "static/js/2.e1e77988.chunk.js",
+    "static/css/main.c0b00f0e.chunk.css",
+    "static/js/main.bc9c3d5d.chunk.js"
+  ]
+}
